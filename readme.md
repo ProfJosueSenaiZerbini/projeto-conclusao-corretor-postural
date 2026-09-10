@@ -1,11 +1,11 @@
 
 Nome dos Integrantes:
 
-Bruno Eduardo dos Santos
-Lara Beatriz Freitas de Alencar
-Gabriel Henrique Pereira
-Gabriel Candido
-Victor Cruz
+Bruno Eduardo dos Santos,
+Lara Beatriz Freitas de Alencar,
+Gabriel Henrique Pereira,
+Gabriel Candido,
+Victor Cruz.
 
 
 O projeto consiste no desenvolvimento de uma plataforma integrada de hardware e software baseada em Internet das Coisas Médicas (IoMT) voltada para a saúde preventiva e ergonomia no ambiente de trabalho.
